@@ -1,4 +1,4 @@
-# Cyber-Samvad-Hackathon
+
 # MediQueue — Smart Government Hospital Queue Management System
 
 **Cyber Samvad Hackathon 2026 | Problem Statement 3**
